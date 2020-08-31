@@ -1,6 +1,8 @@
 # PackIOT_Test
 A database and system architecture test.
 
+![Machines Database](./PackIOT_Database_Test.png)
+
 This query is for retrieving information about machines data collect. 
 
 The database required was Postgre 11.
